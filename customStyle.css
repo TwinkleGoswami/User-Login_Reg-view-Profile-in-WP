@@ -1,0 +1,49 @@
+#file-upload{
+    position: absolute;
+    font-size: 50px;
+    opacity: 0;
+    right: 0;
+    top: 0;
+}
+#Newregister, #login
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+#address
+{
+    resize: none;
+}
+.errorMessage{
+    color: red;
+    font-size: 15px;
+}
+.validation_login
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#editUser{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+.img-design{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+ul#top-menu .menu-item a{
+    font-size: 15px !important;
+}
+.site-description
+{
+    font-size: 15px !important;
+}
